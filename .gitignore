@@ -1,0 +1,12 @@
+# Large data files — exceed GitHub's 100 MB hard limit or 50 MB recommended limit
+data/yfinance/sp500_data_raw.csv
+data/yfinance/sp500_data_weekly.csv
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
