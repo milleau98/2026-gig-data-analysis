@@ -1,0 +1,13 @@
+lxml
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+pmdarima
+matplotlib
+seaborn
+altair
+fredapi
+pytrends
+yfinance
