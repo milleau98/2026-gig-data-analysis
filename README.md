@@ -2,7 +2,7 @@
 MADS 699 Capstone III Project on Analyzing the Gig Economy
 
 ## Data Access Statement
-See the markdown file titled **DataAccessStatement.md** to see the data sources
+See [DataAccessStatement.md](https://github.com/milleau98/2026-gig-data-analysis/edit/austin-development-branch/DataAccessStatement.md) for the data sources and packages used to access them
 
 ## Folder Structure
 ```
