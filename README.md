@@ -1,6 +1,8 @@
 # 2026-gig-data-analysis
 MADS 699 Capstone III Project on Analyzing the Gig Economy
 
+## Data Access Statement
+See the markdown file titled **DataAccessStatement.md** to see the data sources
 
 ## Folder Structure
 ```
