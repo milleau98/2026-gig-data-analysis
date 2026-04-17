@@ -2,7 +2,7 @@
 MADS 699 Capstone III Project on Analyzing the Gig Economy
 
 ## Data Access Statement
-See [DataAccessStatement.md](https://github.com/milleau98/2026-gig-data-analysis/edit/austin-development-branch/DataAccessStatement.md) for the data sources and packages used to access them
+See [DataAccessStatement.md](https://github.com/milleau98/2026-gig-data-analysis/edit/main/DataAccessStatement.md) for the data sources and packages used to access them
 
 ## Folder Structure
 ```
@@ -50,4 +50,4 @@ pip install -r requirements.txt
 ```
 
 ## License
-[MIT License](https://github.com/milleau98/2026-gig-data-analysis/edit/austin-development-branch/License.md)
+[MIT License](https://github.com/milleau98/2026-gig-data-analysis/edit/main/License.md)
