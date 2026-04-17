@@ -48,3 +48,6 @@ pip install -r requirements.txt
 └───notebooks
     └───data-analyses
 ```
+
+## License
+[MIT License](https://github.com/milleau98/2026-gig-data-analysis/edit/austin-development-branch/License.md)
