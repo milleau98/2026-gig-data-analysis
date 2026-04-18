@@ -11,3 +11,5 @@ altair
 fredapi
 pytrends
 yfinance
+time
+os
