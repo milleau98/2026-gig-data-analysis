@@ -43,7 +43,7 @@ pip install -r requirements.txt
     └───feature-selection
         └───correlation_analysis_for_regression.ipynb
 ```
-5. Once the datasets have been created, all notebooks in the below folder can be executed.
+5. Once the datasets have been created, all notebooks in the below folder can be executed
 ```
 └───notebooks
     └───data-analyses
