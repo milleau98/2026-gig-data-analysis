@@ -17,3 +17,10 @@ The google trends data was accessed using the python package which pulls from th
 - Google Trends Website: https://trends.google.com/trends/
 - Python Package Docs: https://pypi.org/project/pytrends/
 - API is publicly accessible
+
+### SEC EDGAR
+The SEC financial filing data was accessed using the secedgar python package and the SEC EDGAR public REST API
+- SEC EDGAR Website: https://www.sec.gov/cgi-bin/browse-edgar
+- EDGAR Company Facts API(company CIK required): https://data.sec.gov/api/xbrl/companyfacts/CIK{cik_here}.json
+- Python Package Docs: https://edgartools.readthedocs.io/en/latest/
+- API is publicly accessible; requests require a User-Agent header identifying the project per SEC guidelines
