@@ -37,13 +37,20 @@ pip install -r requirements.txt
     └───dataset-generators
         └───final_dataset.ipynb
 ```
-4. For the regression analysis, the correlation analysis should be run first to understand the feature selection (the features themselves were manually added into the regression notebook)
+4. These feature selection notebooks can then be run
 ```
 └───notebooks
     └───feature-selection
         └───correlation_analysis_for_regression.ipynb
+        └───clustering_feature_engineering.ipynb
 ```
-5. Once the datasets have been created, all notebooks in the below folder can be executed
+5. Once the clustering_feature_engineering notebook is run, you can run the feature selection one
+```
+└───notebooks
+    └───feature-selection
+        └───clustering_feature_selection.ipynb
+```
+6. Once the datasets have been created, all notebooks in the below folder can be executed
 ```
 └───notebooks
     └───data-analyses
