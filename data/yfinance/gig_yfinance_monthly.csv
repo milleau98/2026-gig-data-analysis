@@ -724,61 +724,61 @@ Date,Month,Quarter,Year,Company,Ticker,industryKey,sectorKey,Close,Volume_accum
 2025-10-31,10,4,2025,Udemy,UDMY,education-training-services,consumer-defensive,5.695000171661377,53003700.0
 2025-11-30,11,4,2025,Udemy,UDMY,education-training-services,consumer-defensive,5.079999923706055,36512000.0
 2025-12-31,12,4,2025,Udemy,UDMY,education-training-services,consumer-defensive,5.760000228881836,85971300.0
-2009-01-31,1,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,4.578855514526367,48218000.0
-2009-02-28,2,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,3.0873641967773438,65198400.0
-2009-03-31,3,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,3.390667676925659,80442400.0
+2009-01-31,1,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,4.578855991363525,48218000.0
+2009-02-28,2,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,3.0873634815216064,65198400.0
+2009-03-31,3,1,2009,Herbalife,HLF,packaged-foods,consumer-defensive,3.39066743850708,80442400.0
 2009-04-30,4,2,2009,Herbalife,HLF,packaged-foods,consumer-defensive,4.486184120178223,76911600.0
-2009-05-31,5,2,2009,Herbalife,HLF,packaged-foods,consumer-defensive,6.660441875457764,74129600.0
-2009-06-30,6,2,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.191727638244629,62133200.0
-2009-07-31,7,3,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.846142768859863,55747200.0
+2009-05-31,5,2,2009,Herbalife,HLF,packaged-foods,consumer-defensive,6.6604413986206055,74129600.0
+2009-06-30,6,2,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.191727161407471,62133200.0
+2009-07-31,7,3,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.846141338348389,55747200.0
 2009-08-31,8,3,2009,Herbalife,HLF,packaged-foods,consumer-defensive,6.946924686431885,59716400.0
-2009-09-30,9,3,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.511305332183838,37346400.0
-2009-10-31,10,4,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.720080375671387,59008800.0
+2009-09-30,9,3,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.5113043785095215,37346400.0
+2009-10-31,10,4,2009,Herbalife,HLF,packaged-foods,consumer-defensive,7.720078468322754,59008800.0
 2009-11-30,11,4,2009,Herbalife,HLF,packaged-foods,consumer-defensive,9.667595863342285,61984000.0
-2009-12-31,12,4,2009,Herbalife,HLF,packaged-foods,consumer-defensive,9.351799011230469,60140800.0
-2010-01-31,1,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,8.955320358276367,49037200.0
-2010-02-28,2,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,9.279349327087402,48865200.0
-2010-03-31,3,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,10.685730934143066,51561200.0
+2009-12-31,12,4,2009,Herbalife,HLF,packaged-foods,consumer-defensive,9.351798057556152,60140800.0
+2010-01-31,1,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,8.95531940460205,49037200.0
+2010-02-28,2,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,9.27934741973877,48865200.0
+2010-03-31,3,1,2010,Herbalife,HLF,packaged-foods,consumer-defensive,10.685731887817383,51561200.0
 2010-04-30,4,2,2010,Herbalife,HLF,packaged-foods,consumer-defensive,11.179240226745605,58227600.0
-2010-05-31,5,2,2010,Herbalife,HLF,packaged-foods,consumer-defensive,10.504657745361328,83902400.0
+2010-05-31,5,2,2010,Herbalife,HLF,packaged-foods,consumer-defensive,10.504658699035645,83902400.0
 2010-06-30,6,2,2010,Herbalife,HLF,packaged-foods,consumer-defensive,10.714052200317383,45533200.0
-2010-07-31,7,3,2010,Herbalife,HLF,packaged-foods,consumer-defensive,11.549307823181152,31591600.0
-2010-08-31,8,3,2010,Herbalife,HLF,packaged-foods,consumer-defensive,12.988043785095215,69296800.0
+2010-07-31,7,3,2010,Herbalife,HLF,packaged-foods,consumer-defensive,11.549306869506836,31591600.0
+2010-08-31,8,3,2010,Herbalife,HLF,packaged-foods,consumer-defensive,12.988041877746582,69296800.0
 2010-09-30,9,3,2010,Herbalife,HLF,packaged-foods,consumer-defensive,14.102704048156738,48285600.0
 2010-10-31,10,4,2010,Herbalife,HLF,packaged-foods,consumer-defensive,14.922926902770996,41964400.0
 2010-11-30,11,4,2010,Herbalife,HLF,packaged-foods,consumer-defensive,16.09874725341797,55953200.0
-2010-12-31,12,4,2010,Herbalife,HLF,packaged-foods,consumer-defensive,16.03775978088379,34273600.0
-2011-01-31,1,1,2011,Herbalife,HLF,packaged-foods,consumer-defensive,15.324655532836914,38336800.0
-2011-02-28,2,1,2011,Herbalife,HLF,packaged-foods,consumer-defensive,18.39286994934082,45620000.0
+2010-12-31,12,4,2010,Herbalife,HLF,packaged-foods,consumer-defensive,16.037757873535156,34273600.0
+2011-01-31,1,1,2011,Herbalife,HLF,packaged-foods,consumer-defensive,15.324654579162598,38336800.0
+2011-02-28,2,1,2011,Herbalife,HLF,packaged-foods,consumer-defensive,18.392871856689453,45620000.0
 2011-03-31,3,1,2011,Herbalife,HLF,packaged-foods,consumer-defensive,19.14738655090332,60284800.0
-2011-04-30,4,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,21.12896156311035,33665600.0
-2011-05-31,5,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.54037094116211,75055600.0
-2011-06-30,6,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,27.181718826293945,49605200.0
-2011-07-31,7,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.27629280090332,36156600.0
-2011-08-31,8,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.411876678466797,90756600.0
-2011-09-30,9,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,25.370542526245117,61522600.0
+2011-04-30,4,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,21.12895965576172,33665600.0
+2011-05-31,5,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.540374755859375,75055600.0
+2011-06-30,6,2,2011,Herbalife,HLF,packaged-foods,consumer-defensive,27.181716918945312,49605200.0
+2011-07-31,7,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.276290893554688,36156600.0
+2011-08-31,8,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.411874771118164,90756600.0
+2011-09-30,9,3,2011,Herbalife,HLF,packaged-foods,consumer-defensive,25.37054443359375,61522600.0
 2011-10-31,10,4,2011,Herbalife,HLF,packaged-foods,consumer-defensive,29.51692771911621,65022800.0
-2011-11-30,11,4,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.26469612121582,84527800.0
-2011-12-31,12,4,2011,Herbalife,HLF,packaged-foods,consumer-defensive,24.540630340576172,43735200.0
-2012-01-31,1,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,27.490066528320312,47892400.0
-2012-02-29,2,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,31.446393966674805,59011400.0
-2012-03-31,3,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,32.83202362060547,57077800.0
-2012-04-30,4,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,33.54762268066406,58306400.0
-2012-05-31,5,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,21.508275985717773,401781000.0
-2012-06-30,6,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,23.208194732666016,60870600.0
+2011-11-30,11,4,2011,Herbalife,HLF,packaged-foods,consumer-defensive,26.264698028564453,84527800.0
+2011-12-31,12,4,2011,Herbalife,HLF,packaged-foods,consumer-defensive,24.54062843322754,43735200.0
+2012-01-31,1,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,27.490068435668945,47892400.0
+2012-02-29,2,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,31.44639778137207,59011400.0
+2012-03-31,3,1,2012,Herbalife,HLF,packaged-foods,consumer-defensive,32.8320198059082,57077800.0
+2012-04-30,4,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,33.54762649536133,58306400.0
+2012-05-31,5,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,21.508277893066406,401781000.0
+2012-06-30,6,2,2012,Herbalife,HLF,packaged-foods,consumer-defensive,23.20819664001465,60870600.0
 2012-07-31,7,3,2012,Herbalife,HLF,packaged-foods,consumer-defensive,26.358325958251953,74875000.0
-2012-08-31,8,3,2012,Herbalife,HLF,packaged-foods,consumer-defensive,23.373001098632812,72331800.0
+2012-08-31,8,3,2012,Herbalife,HLF,packaged-foods,consumer-defensive,23.373004913330078,72331800.0
 2012-09-30,9,3,2012,Herbalife,HLF,packaged-foods,consumer-defensive,22.894821166992188,43481200.0
-2012-10-31,10,4,2012,Herbalife,HLF,packaged-foods,consumer-defensive,24.802719116210938,60675200.0
+2012-10-31,10,4,2012,Herbalife,HLF,packaged-foods,consumer-defensive,24.80272102355957,60675200.0
 2012-11-30,11,4,2012,Herbalife,HLF,packaged-foods,consumer-defensive,22.349393844604492,79145200.0
 2012-12-31,12,4,2012,Herbalife,HLF,packaged-foods,consumer-defensive,16.014554977416992,400294400.0
-2013-01-31,1,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,17.657819747924805,577602200.0
-2013-02-28,2,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,19.587926864624023,299185600.0
-2013-03-31,3,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,18.34378433227539,111456800.0
-2013-04-30,4,2,2013,Herbalife,HLF,packaged-foods,consumer-defensive,19.450777053833008,112893800.0
-2013-05-31,5,2,2013,Herbalife,HLF,packaged-foods,consumer-defensive,23.01491355895996,119447600.0
+2013-01-31,1,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,17.657817840576172,577602200.0
+2013-02-28,2,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,19.58793067932129,299185600.0
+2013-03-31,3,1,2013,Herbalife,HLF,packaged-foods,consumer-defensive,18.343782424926758,111456800.0
+2013-04-30,4,2,2013,Herbalife,HLF,packaged-foods,consumer-defensive,19.45077896118164,112893800.0
+2013-05-31,5,2,2013,Herbalife,HLF,packaged-foods,consumer-defensive,23.014911651611328,119447600.0
 2013-06-30,6,2,2013,Herbalife,HLF,packaged-foods,consumer-defensive,22.260406494140625,83419400.0
-2013-07-31,7,3,2013,Herbalife,HLF,packaged-foods,consumer-defensive,32.3007698059082,195191800.0
+2013-07-31,7,3,2013,Herbalife,HLF,packaged-foods,consumer-defensive,32.30076599121094,195191800.0
 2013-08-31,8,3,2013,Herbalife,HLF,packaged-foods,consumer-defensive,30.22309112548828,116174600.0
 2013-09-30,9,3,2013,Herbalife,HLF,packaged-foods,consumer-defensive,34.5626106262207,137582400.0
 2013-10-31,10,4,2013,Herbalife,HLF,packaged-foods,consumer-defensive,32.1104850769043,121607800.0
@@ -928,184 +928,184 @@ Date,Month,Quarter,Year,Company,Ticker,industryKey,sectorKey,Close,Volume_accum
 2025-10-31,10,4,2025,Herbalife,HLF,packaged-foods,consumer-defensive,8.0,29209500.0
 2025-11-30,11,4,2025,Herbalife,HLF,packaged-foods,consumer-defensive,12.729999542236328,45549100.0
 2025-12-31,12,4,2025,Herbalife,HLF,packaged-foods,consumer-defensive,12.84000015258789,44856400.0
-2010-04-30,4,2,2010,Primerica,PRI,insurance-life,financial-services,19.79128646850586,42808400.0
-2010-05-31,5,2,2010,Primerica,PRI,insurance-life,financial-services,19.774600982666016,4416000.0
+2010-04-30,4,2,2010,Primerica,PRI,insurance-life,financial-services,19.791288375854492,42808400.0
+2010-05-31,5,2,2010,Primerica,PRI,insurance-life,financial-services,19.774599075317383,4416000.0
 2010-06-30,6,2,2010,Primerica,PRI,insurance-life,financial-services,17.888925552368164,4878600.0
 2010-07-31,7,3,2010,Primerica,PRI,insurance-life,financial-services,19.49925994873047,3700600.0
-2010-08-31,8,3,2010,Primerica,PRI,insurance-life,financial-services,17.555177688598633,3676500.0
-2010-09-30,9,3,2010,Primerica,PRI,insurance-life,financial-services,16.97919464111328,4354600.0
-2010-10-31,10,4,2010,Primerica,PRI,insurance-life,financial-services,17.630311965942383,3591500.0
-2010-11-30,11,4,2010,Primerica,PRI,insurance-life,financial-services,18.865896224975586,4265500.0
-2010-12-31,12,4,2010,Primerica,PRI,insurance-life,financial-services,20.252233505249023,2416500.0
-2011-01-31,1,1,2011,Primerica,PRI,insurance-life,financial-services,20.21047592163086,1958300.0
-2011-02-28,2,1,2011,Primerica,PRI,insurance-life,financial-services,21.521705627441406,1271800.0
-2011-03-31,3,1,2011,Primerica,PRI,insurance-life,financial-services,21.312833786010742,1918000.0
-2011-04-30,4,2,2011,Primerica,PRI,insurance-life,financial-services,19.316062927246094,17281200.0
-2011-05-31,5,2,2011,Primerica,PRI,insurance-life,financial-services,17.96336555480957,5495200.0
-2011-06-30,6,2,2011,Primerica,PRI,insurance-life,financial-services,18.381698608398438,7641600.0
-2011-07-31,7,3,2011,Primerica,PRI,insurance-life,financial-services,18.0888671875,3734300.0
-2011-08-31,8,3,2011,Primerica,PRI,insurance-life,financial-services,17.454608917236328,5283800.0
-2011-09-30,9,3,2011,Primerica,PRI,insurance-life,financial-services,18.06632423400879,5956700.0
-2011-10-31,10,4,2011,Primerica,PRI,insurance-life,financial-services,18.962923049926758,4790100.0
-2011-11-30,11,4,2011,Primerica,PRI,insurance-life,financial-services,19.265134811401367,3656200.0
-2011-12-31,12,4,2011,Primerica,PRI,insurance-life,financial-services,19.500078201293945,11984800.0
-2012-01-31,1,1,2012,Primerica,PRI,insurance-life,financial-services,20.557310104370117,5800400.0
-2012-02-29,2,1,2012,Primerica,PRI,insurance-life,financial-services,21.01827621459961,5121500.0
-2012-03-31,3,1,2012,Primerica,PRI,insurance-life,financial-services,21.177885055541992,4671200.0
-2012-04-30,4,2,2012,Primerica,PRI,insurance-life,financial-services,22.03474235534668,5653400.0
-2012-05-31,5,2,2012,Primerica,PRI,insurance-life,financial-services,20.262502670288086,5987300.0
-2012-06-30,6,2,2012,Primerica,PRI,insurance-life,financial-services,22.501731872558594,8231300.0
-2012-07-31,7,3,2012,Primerica,PRI,insurance-life,financial-services,23.040494918823242,4452400.0
-2012-08-31,8,3,2012,Primerica,PRI,insurance-life,financial-services,24.6057071685791,6069800.0
-2012-09-30,9,3,2012,Primerica,PRI,insurance-life,financial-services,24.16692352294922,5184400.0
-2012-10-31,10,4,2012,Primerica,PRI,insurance-life,financial-services,23.846267700195312,5219800.0
-2012-11-30,11,4,2012,Primerica,PRI,insurance-life,financial-services,24.235532760620117,6119300.0
-2012-12-31,12,4,2012,Primerica,PRI,insurance-life,financial-services,25.40371322631836,6267700.0
-2013-01-31,1,1,2013,Primerica,PRI,insurance-life,financial-services,27.83319664001465,5079000.0
-2013-02-28,2,1,2013,Primerica,PRI,insurance-life,financial-services,26.729711532592773,19754600.0
-2013-03-31,3,1,2013,Primerica,PRI,insurance-life,financial-services,27.842395782470703,6475400.0
-2013-04-30,4,2,2013,Primerica,PRI,insurance-life,financial-services,28.844655990600586,6621400.0
-2013-05-31,5,2,2013,Primerica,PRI,insurance-life,financial-services,30.010393142700195,5037300.0
-2013-06-30,6,2,2013,Primerica,PRI,insurance-life,financial-services,31.902019500732422,6080700.0
-2013-07-31,7,3,2013,Primerica,PRI,insurance-life,financial-services,34.969512939453125,4152700.0
-2013-08-31,8,3,2013,Primerica,PRI,insurance-life,financial-services,31.72797966003418,3748400.0
-2013-09-30,9,3,2013,Primerica,PRI,insurance-life,financial-services,34.47096252441406,5371200.0
-2013-10-31,10,4,2013,Primerica,PRI,insurance-life,financial-services,36.70123291015625,4266300.0
-2013-11-30,11,4,2013,Primerica,PRI,insurance-life,financial-services,36.865352630615234,4369100.0
+2010-08-31,8,3,2010,Primerica,PRI,insurance-life,financial-services,17.55517578125,3676500.0
+2010-09-30,9,3,2010,Primerica,PRI,insurance-life,financial-services,16.979183197021484,4354600.0
+2010-10-31,10,4,2010,Primerica,PRI,insurance-life,financial-services,17.630306243896484,3591500.0
+2010-11-30,11,4,2010,Primerica,PRI,insurance-life,financial-services,18.865894317626953,4265500.0
+2010-12-31,12,4,2010,Primerica,PRI,insurance-life,financial-services,20.252235412597656,2416500.0
+2011-01-31,1,1,2011,Primerica,PRI,insurance-life,financial-services,20.210479736328125,1958300.0
+2011-02-28,2,1,2011,Primerica,PRI,insurance-life,financial-services,21.521713256835938,1271800.0
+2011-03-31,3,1,2011,Primerica,PRI,insurance-life,financial-services,21.31284523010254,1918000.0
+2011-04-30,4,2,2011,Primerica,PRI,insurance-life,financial-services,19.316059112548828,17281200.0
+2011-05-31,5,2,2011,Primerica,PRI,insurance-life,financial-services,17.963361740112305,5495200.0
+2011-06-30,6,2,2011,Primerica,PRI,insurance-life,financial-services,18.38170623779297,7641600.0
+2011-07-31,7,3,2011,Primerica,PRI,insurance-life,financial-services,18.088857650756836,3734300.0
+2011-08-31,8,3,2011,Primerica,PRI,insurance-life,financial-services,17.454605102539062,5283800.0
+2011-09-30,9,3,2011,Primerica,PRI,insurance-life,financial-services,18.066316604614258,5956700.0
+2011-10-31,10,4,2011,Primerica,PRI,insurance-life,financial-services,18.962921142578125,4790100.0
+2011-11-30,11,4,2011,Primerica,PRI,insurance-life,financial-services,19.265140533447266,3656200.0
+2011-12-31,12,4,2011,Primerica,PRI,insurance-life,financial-services,19.50008201599121,11984800.0
+2012-01-31,1,1,2012,Primerica,PRI,insurance-life,financial-services,20.557321548461914,5800400.0
+2012-02-29,2,1,2012,Primerica,PRI,insurance-life,financial-services,21.018268585205078,5121500.0
+2012-03-31,3,1,2012,Primerica,PRI,insurance-life,financial-services,21.177881240844727,4671200.0
+2012-04-30,4,2,2012,Primerica,PRI,insurance-life,financial-services,22.034744262695312,5653400.0
+2012-05-31,5,2,2012,Primerica,PRI,insurance-life,financial-services,20.262495040893555,5987300.0
+2012-06-30,6,2,2012,Primerica,PRI,insurance-life,financial-services,22.501728057861328,8231300.0
+2012-07-31,7,3,2012,Primerica,PRI,insurance-life,financial-services,23.040498733520508,4452400.0
+2012-08-31,8,3,2012,Primerica,PRI,insurance-life,financial-services,24.605709075927734,6069800.0
+2012-09-30,9,3,2012,Primerica,PRI,insurance-life,financial-services,24.16692543029785,5184400.0
+2012-10-31,10,4,2012,Primerica,PRI,insurance-life,financial-services,23.846275329589844,5219800.0
+2012-11-30,11,4,2012,Primerica,PRI,insurance-life,financial-services,24.235538482666016,6119300.0
+2012-12-31,12,4,2012,Primerica,PRI,insurance-life,financial-services,25.403715133666992,6267700.0
+2013-01-31,1,1,2013,Primerica,PRI,insurance-life,financial-services,27.833187103271484,5079000.0
+2013-02-28,2,1,2013,Primerica,PRI,insurance-life,financial-services,26.729724884033203,19754600.0
+2013-03-31,3,1,2013,Primerica,PRI,insurance-life,financial-services,27.84239387512207,6475400.0
+2013-04-30,4,2,2013,Primerica,PRI,insurance-life,financial-services,28.84465789794922,6621400.0
+2013-05-31,5,2,2013,Primerica,PRI,insurance-life,financial-services,30.010398864746094,5037300.0
+2013-06-30,6,2,2013,Primerica,PRI,insurance-life,financial-services,31.901994705200195,6080700.0
+2013-07-31,7,3,2013,Primerica,PRI,insurance-life,financial-services,34.969520568847656,4152700.0
+2013-08-31,8,3,2013,Primerica,PRI,insurance-life,financial-services,31.727983474731445,3748400.0
+2013-09-30,9,3,2013,Primerica,PRI,insurance-life,financial-services,34.47096633911133,5371200.0
+2013-10-31,10,4,2013,Primerica,PRI,insurance-life,financial-services,36.70122146606445,4266300.0
+2013-11-30,11,4,2013,Primerica,PRI,insurance-life,financial-services,36.86533737182617,4369100.0
 2013-12-31,12,4,2013,Primerica,PRI,insurance-life,financial-services,36.76253890991211,3879000.0
-2014-01-31,1,1,2014,Primerica,PRI,insurance-life,financial-services,36.094295501708984,4845800.0
-2014-02-28,2,1,2014,Primerica,PRI,insurance-life,financial-services,38.50351333618164,5791500.0
-2014-03-31,3,1,2014,Primerica,PRI,insurance-life,financial-services,40.470760345458984,5537400.0
-2014-04-30,4,2,2014,Primerica,PRI,insurance-life,financial-services,39.422725677490234,4348500.0
-2014-05-31,5,2,2014,Primerica,PRI,insurance-life,financial-services,38.80018997192383,5796200.0
+2014-01-31,1,1,2014,Primerica,PRI,insurance-life,financial-services,36.09429931640625,4845800.0
+2014-02-28,2,1,2014,Primerica,PRI,insurance-life,financial-services,38.50350570678711,5791500.0
+2014-03-31,3,1,2014,Primerica,PRI,insurance-life,financial-services,40.47077941894531,5537400.0
+2014-04-30,4,2,2014,Primerica,PRI,insurance-life,financial-services,39.42271423339844,4348500.0
+2014-05-31,5,2,2014,Primerica,PRI,insurance-life,financial-services,38.80017852783203,5796200.0
 2014-06-30,6,2,2014,Primerica,PRI,insurance-life,financial-services,41.220882415771484,5119800.0
-2014-07-31,7,3,2014,Primerica,PRI,insurance-life,financial-services,39.69609832763672,4411900.0
-2014-08-31,8,3,2014,Primerica,PRI,insurance-life,financial-services,43.4661865234375,4024700.0
-2014-09-30,9,3,2014,Primerica,PRI,insurance-life,financial-services,41.64393997192383,4786100.0
-2014-10-31,10,4,2014,Primerica,PRI,insurance-life,financial-services,44.174354553222656,5825300.0
-2014-11-30,11,4,2014,Primerica,PRI,insurance-life,financial-services,45.3856086730957,4934400.0
-2014-12-31,12,4,2014,Primerica,PRI,insurance-life,financial-services,46.969730377197266,5814800.0
-2015-01-31,1,1,2015,Primerica,PRI,insurance-life,financial-services,42.970462799072266,3665200.0
-2015-02-28,2,1,2015,Primerica,PRI,insurance-life,financial-services,45.787811279296875,4648700.0
+2014-07-31,7,3,2014,Primerica,PRI,insurance-life,financial-services,39.69609451293945,4411900.0
+2014-08-31,8,3,2014,Primerica,PRI,insurance-life,financial-services,43.466182708740234,4024700.0
+2014-09-30,9,3,2014,Primerica,PRI,insurance-life,financial-services,41.64392852783203,4786100.0
+2014-10-31,10,4,2014,Primerica,PRI,insurance-life,financial-services,44.17435073852539,5825300.0
+2014-11-30,11,4,2014,Primerica,PRI,insurance-life,financial-services,45.38559341430664,4934400.0
+2014-12-31,12,4,2014,Primerica,PRI,insurance-life,financial-services,46.969722747802734,5814800.0
+2015-01-31,1,1,2015,Primerica,PRI,insurance-life,financial-services,42.97046661376953,3665200.0
+2015-02-28,2,1,2015,Primerica,PRI,insurance-life,financial-services,45.78781509399414,4648700.0
 2015-03-31,3,1,2015,Primerica,PRI,insurance-life,financial-services,44.19035720825195,6275200.0
-2015-04-30,4,2,2015,Primerica,PRI,insurance-life,financial-services,40.12728500366211,12211600.0
-2015-05-31,5,2,2015,Primerica,PRI,insurance-life,financial-services,38.53388977050781,7171800.0
+2015-04-30,4,2,2015,Primerica,PRI,insurance-life,financial-services,40.127288818359375,12211600.0
+2015-05-31,5,2,2015,Primerica,PRI,insurance-life,financial-services,38.533878326416016,7171800.0
 2015-06-30,6,2,2015,Primerica,PRI,insurance-life,financial-services,39.80586242675781,7474000.0
 2015-07-31,7,3,2015,Primerica,PRI,insurance-life,financial-services,39.40509796142578,11248100.0
-2015-08-31,8,3,2015,Primerica,PRI,insurance-life,financial-services,37.154014587402344,13253000.0
-2015-09-30,9,3,2015,Primerica,PRI,insurance-life,financial-services,39.410003662109375,10544200.0
-2015-10-31,10,4,2015,Primerica,PRI,insurance-life,financial-services,41.64851760864258,6701200.0
-2015-11-30,11,4,2015,Primerica,PRI,insurance-life,financial-services,44.949012756347656,5110500.0
+2015-08-31,8,3,2015,Primerica,PRI,insurance-life,financial-services,37.15400314331055,13253000.0
+2015-09-30,9,3,2015,Primerica,PRI,insurance-life,financial-services,39.40999984741211,10544200.0
+2015-10-31,10,4,2015,Primerica,PRI,insurance-life,financial-services,41.648521423339844,6701200.0
+2015-11-30,11,4,2015,Primerica,PRI,insurance-life,financial-services,44.94898986816406,5110500.0
 2015-12-31,12,4,2015,Primerica,PRI,insurance-life,financial-services,41.431331634521484,7417900.0
-2016-01-31,1,1,2016,Primerica,PRI,insurance-life,financial-services,39.48389434814453,7578100.0
-2016-02-29,2,1,2016,Primerica,PRI,insurance-life,financial-services,37.16196823120117,8899300.0
+2016-01-31,1,1,2016,Primerica,PRI,insurance-life,financial-services,39.48388671875,7578100.0
+2016-02-29,2,1,2016,Primerica,PRI,insurance-life,financial-services,37.1619873046875,8899300.0
 2016-03-31,3,1,2016,Primerica,PRI,insurance-life,financial-services,39.223114013671875,8448300.0
-2016-04-30,4,2,2016,Primerica,PRI,insurance-life,financial-services,43.65366744995117,9433500.0
-2016-05-31,5,2,2016,Primerica,PRI,insurance-life,financial-services,49.58735275268555,7895300.0
-2016-06-30,6,2,2016,Primerica,PRI,insurance-life,financial-services,50.58598709106445,11889700.0
-2016-07-31,7,3,2016,Primerica,PRI,insurance-life,financial-services,45.522090911865234,10868700.0
-2016-08-31,8,3,2016,Primerica,PRI,insurance-life,financial-services,50.47493362426758,11315300.0
-2016-09-30,9,3,2016,Primerica,PRI,insurance-life,financial-services,47.01714324951172,8717300.0
-2016-10-31,10,4,2016,Primerica,PRI,insurance-life,financial-services,48.4977912902832,6145700.0
-2016-11-30,11,4,2016,Primerica,PRI,insurance-life,financial-services,62.84406661987305,17672900.0
-2016-12-31,12,4,2016,Primerica,PRI,insurance-life,financial-services,61.466304779052734,9219700.0
-2017-01-31,1,1,2017,Primerica,PRI,insurance-life,financial-services,67.06625366210938,8334200.0
-2017-02-28,2,1,2017,Primerica,PRI,insurance-life,financial-services,71.94757843017578,7395700.0
-2017-03-31,3,1,2017,Primerica,PRI,insurance-life,financial-services,73.23950958251953,6888000.0
-2017-04-30,4,2,2017,Primerica,PRI,insurance-life,financial-services,74.66513061523438,6616700.0
-2017-05-31,5,2,2017,Primerica,PRI,insurance-life,financial-services,64.48242950439453,9145300.0
+2016-04-30,4,2,2016,Primerica,PRI,insurance-life,financial-services,43.653656005859375,9433500.0
+2016-05-31,5,2,2016,Primerica,PRI,insurance-life,financial-services,49.58735656738281,7895300.0
+2016-06-30,6,2,2016,Primerica,PRI,insurance-life,financial-services,50.58599090576172,11889700.0
+2016-07-31,7,3,2016,Primerica,PRI,insurance-life,financial-services,45.52207946777344,10868700.0
+2016-08-31,8,3,2016,Primerica,PRI,insurance-life,financial-services,50.474937438964844,11315300.0
+2016-09-30,9,3,2016,Primerica,PRI,insurance-life,financial-services,47.01713180541992,8717300.0
+2016-10-31,10,4,2016,Primerica,PRI,insurance-life,financial-services,48.497779846191406,6145700.0
+2016-11-30,11,4,2016,Primerica,PRI,insurance-life,financial-services,62.84405517578125,17672900.0
+2016-12-31,12,4,2016,Primerica,PRI,insurance-life,financial-services,61.46630096435547,9219700.0
+2017-01-31,1,1,2017,Primerica,PRI,insurance-life,financial-services,67.0662612915039,8334200.0
+2017-02-28,2,1,2017,Primerica,PRI,insurance-life,financial-services,71.94757080078125,7395700.0
+2017-03-31,3,1,2017,Primerica,PRI,insurance-life,financial-services,73.23954010009766,6888000.0
+2017-04-30,4,2,2017,Primerica,PRI,insurance-life,financial-services,74.66512298583984,6616700.0
+2017-05-31,5,2,2017,Primerica,PRI,insurance-life,financial-services,64.4824447631836,9145300.0
 2017-06-30,6,2,2017,Primerica,PRI,insurance-life,financial-services,67.65300750732422,6203800.0
-2017-07-31,7,3,2017,Primerica,PRI,insurance-life,financial-services,72.386474609375,4217500.0
-2017-08-31,8,3,2017,Primerica,PRI,insurance-life,financial-services,68.5387191772461,5443900.0
-2017-09-30,9,3,2017,Primerica,PRI,insurance-life,financial-services,73.01544189453125,4510700.0
-2017-10-31,10,4,2017,Primerica,PRI,insurance-life,financial-services,79.23811340332031,5381200.0
-2017-11-30,11,4,2017,Primerica,PRI,insurance-life,financial-services,93.30464935302734,6293300.0
-2017-12-31,12,4,2017,Primerica,PRI,insurance-life,financial-services,91.10660552978516,4387300.0
-2018-01-31,1,1,2018,Primerica,PRI,insurance-life,financial-services,90.61314392089844,3827200.0
+2017-07-31,7,3,2017,Primerica,PRI,insurance-life,financial-services,72.38645935058594,4217500.0
+2017-08-31,8,3,2017,Primerica,PRI,insurance-life,financial-services,68.53873443603516,5443900.0
+2017-09-30,9,3,2017,Primerica,PRI,insurance-life,financial-services,73.01544952392578,4510700.0
+2017-10-31,10,4,2017,Primerica,PRI,insurance-life,financial-services,79.23809814453125,5381200.0
+2017-11-30,11,4,2017,Primerica,PRI,insurance-life,financial-services,93.3046646118164,6293300.0
+2017-12-31,12,4,2017,Primerica,PRI,insurance-life,financial-services,91.10659790039062,4387300.0
+2018-01-31,1,1,2018,Primerica,PRI,insurance-life,financial-services,90.61317443847656,3827200.0
 2018-02-28,2,1,2018,Primerica,PRI,insurance-life,financial-services,87.69833374023438,4183700.0
 2018-03-31,3,1,2018,Primerica,PRI,insurance-life,financial-services,86.8887939453125,4663800.0
-2018-04-30,4,2,2018,Primerica,PRI,insurance-life,financial-services,87.0237045288086,4687600.0
-2018-05-31,5,2,2018,Primerica,PRI,insurance-life,financial-services,88.68992614746094,5063500.0
-2018-06-30,6,2,2018,Primerica,PRI,insurance-life,financial-services,89.81713104248047,4316700.0
-2018-07-31,7,3,2018,Primerica,PRI,insurance-life,financial-services,103.5241928100586,3868700.0
-2018-08-31,8,3,2018,Primerica,PRI,insurance-life,financial-services,110.47592163085938,3870400.0
-2018-09-30,9,3,2018,Primerica,PRI,insurance-life,financial-services,108.93965148925781,5390200.0
-2018-10-31,10,4,2018,Primerica,PRI,insurance-life,financial-services,99.17078399658203,4831500.0
+2018-04-30,4,2,2018,Primerica,PRI,insurance-life,financial-services,87.02372741699219,4687600.0
+2018-05-31,5,2,2018,Primerica,PRI,insurance-life,financial-services,88.68991088867188,5063500.0
+2018-06-30,6,2,2018,Primerica,PRI,insurance-life,financial-services,89.81716918945312,4316700.0
+2018-07-31,7,3,2018,Primerica,PRI,insurance-life,financial-services,103.52420043945312,3868700.0
+2018-08-31,8,3,2018,Primerica,PRI,insurance-life,financial-services,110.4759292602539,3870400.0
+2018-09-30,9,3,2018,Primerica,PRI,insurance-life,financial-services,108.93962097167969,5390200.0
+2018-10-31,10,4,2018,Primerica,PRI,insurance-life,financial-services,99.17076110839844,4831500.0
 2018-11-30,11,4,2018,Primerica,PRI,insurance-life,financial-services,107.65824890136719,3975400.0
-2018-12-31,12,4,2018,Primerica,PRI,insurance-life,financial-services,88.48661041259766,4620000.0
-2019-01-31,1,1,2019,Primerica,PRI,insurance-life,financial-services,101.76277923583984,4108600.0
-2019-02-28,2,1,2019,Primerica,PRI,insurance-life,financial-services,113.55927276611328,4050100.0
-2019-03-31,3,1,2019,Primerica,PRI,insurance-life,financial-services,110.93461608886719,4588100.0
-2019-04-30,4,2,2019,Primerica,PRI,insurance-life,financial-services,118.32720947265625,4006400.0
-2019-05-31,5,2,2019,Primerica,PRI,insurance-life,financial-services,104.60223388671875,3921700.0
-2019-06-30,6,2,2019,Primerica,PRI,insurance-life,financial-services,109.23766326904297,9396000.0
-2019-07-31,7,3,2019,Primerica,PRI,insurance-life,financial-services,111.73297119140625,4979600.0
-2019-08-31,8,3,2019,Primerica,PRI,insurance-life,financial-services,108.84093475341797,5917800.0
-2019-09-30,9,3,2019,Primerica,PRI,insurance-life,financial-services,116.20236206054688,4494300.0
-2019-10-31,10,4,2019,Primerica,PRI,insurance-life,financial-services,115.24333190917969,3694600.0
-2019-11-30,11,4,2019,Primerica,PRI,insurance-life,financial-services,122.55728149414062,2628800.0
+2018-12-31,12,4,2018,Primerica,PRI,insurance-life,financial-services,88.48662567138672,4620000.0
+2019-01-31,1,1,2019,Primerica,PRI,insurance-life,financial-services,101.76276397705078,4108600.0
+2019-02-28,2,1,2019,Primerica,PRI,insurance-life,financial-services,113.55928039550781,4050100.0
+2019-03-31,3,1,2019,Primerica,PRI,insurance-life,financial-services,110.93460083007812,4588100.0
+2019-04-30,4,2,2019,Primerica,PRI,insurance-life,financial-services,118.32722473144531,4006400.0
+2019-05-31,5,2,2019,Primerica,PRI,insurance-life,financial-services,104.60222625732422,3921700.0
+2019-06-30,6,2,2019,Primerica,PRI,insurance-life,financial-services,109.23767852783203,9396000.0
+2019-07-31,7,3,2019,Primerica,PRI,insurance-life,financial-services,111.73295593261719,4979600.0
+2019-08-31,8,3,2019,Primerica,PRI,insurance-life,financial-services,108.84095001220703,5917800.0
+2019-09-30,9,3,2019,Primerica,PRI,insurance-life,financial-services,116.20235443115234,4494300.0
+2019-10-31,10,4,2019,Primerica,PRI,insurance-life,financial-services,115.24335479736328,3694600.0
+2019-11-30,11,4,2019,Primerica,PRI,insurance-life,financial-services,122.55730438232422,2628800.0
 2019-12-31,12,4,2019,Primerica,PRI,insurance-life,financial-services,119.55379486083984,3713800.0
-2020-01-31,1,1,2020,Primerica,PRI,insurance-life,financial-services,108.56538391113281,3535800.0
-2020-02-29,2,1,2020,Primerica,PRI,insurance-life,financial-services,102.25391387939453,4232800.0
-2020-03-31,3,1,2020,Primerica,PRI,insurance-life,financial-services,81.25943756103516,9608300.0
+2020-01-31,1,1,2020,Primerica,PRI,insurance-life,financial-services,108.56539154052734,3535800.0
+2020-02-29,2,1,2020,Primerica,PRI,insurance-life,financial-services,102.25390625,4232800.0
+2020-03-31,3,1,2020,Primerica,PRI,insurance-life,financial-services,81.25942993164062,9608300.0
 2020-04-30,4,2,2020,Primerica,PRI,insurance-life,financial-services,95.43023681640625,6033200.0
-2020-05-31,5,2,2020,Primerica,PRI,insurance-life,financial-services,104.7576904296875,4227300.0
-2020-06-30,6,2,2020,Primerica,PRI,insurance-life,financial-services,107.4863052368164,4355200.0
-2020-07-31,7,3,2020,Primerica,PRI,insurance-life,financial-services,110.30714416503906,3082900.0
+2020-05-31,5,2,2020,Primerica,PRI,insurance-life,financial-services,104.75768280029297,4227300.0
+2020-06-30,6,2,2020,Primerica,PRI,insurance-life,financial-services,107.48631286621094,4355200.0
+2020-07-31,7,3,2020,Primerica,PRI,insurance-life,financial-services,110.30712890625,3082900.0
 2020-08-31,8,3,2020,Primerica,PRI,insurance-life,financial-services,115.44503021240234,3394100.0
 2020-09-30,9,3,2020,Primerica,PRI,insurance-life,financial-services,104.61713409423828,5268100.0
 2020-10-31,10,4,2020,Primerica,PRI,insurance-life,financial-services,101.93560791015625,4292100.0
-2020-11-30,11,4,2020,Primerica,PRI,insurance-life,financial-services,120.82909393310547,3277600.0
-2020-12-31,12,4,2020,Primerica,PRI,insurance-life,financial-services,124.22383880615234,2955300.0
-2021-01-31,1,1,2021,Primerica,PRI,insurance-life,financial-services,129.21395874023438,3338200.0
-2021-02-28,2,1,2021,Primerica,PRI,insurance-life,financial-services,131.4237518310547,2907600.0
-2021-03-31,3,1,2021,Primerica,PRI,insurance-life,financial-services,137.55621337890625,3738800.0
-2021-04-30,4,2,2021,Primerica,PRI,insurance-life,financial-services,148.67642211914062,2457000.0
-2021-05-31,5,2,2021,Primerica,PRI,insurance-life,financial-services,151.39651489257812,2140300.0
-2021-06-30,6,2,2021,Primerica,PRI,insurance-life,financial-services,142.93112182617188,3992600.0
+2020-11-30,11,4,2020,Primerica,PRI,insurance-life,financial-services,120.82910919189453,3277600.0
+2020-12-31,12,4,2020,Primerica,PRI,insurance-life,financial-services,124.22383117675781,2955300.0
+2021-01-31,1,1,2021,Primerica,PRI,insurance-life,financial-services,129.21397399902344,3338200.0
+2021-02-28,2,1,2021,Primerica,PRI,insurance-life,financial-services,131.4237823486328,2907600.0
+2021-03-31,3,1,2021,Primerica,PRI,insurance-life,financial-services,137.55618286132812,3738800.0
+2021-04-30,4,2,2021,Primerica,PRI,insurance-life,financial-services,148.6764678955078,2457000.0
+2021-05-31,5,2,2021,Primerica,PRI,insurance-life,financial-services,151.396484375,2140300.0
+2021-06-30,6,2,2021,Primerica,PRI,insurance-life,financial-services,142.93115234375,3992600.0
 2021-07-31,7,3,2021,Primerica,PRI,insurance-life,financial-services,136.4724578857422,2323800.0
-2021-08-31,8,3,2021,Primerica,PRI,insurance-life,financial-services,143.192626953125,1967200.0
-2021-09-30,9,3,2021,Primerica,PRI,insurance-life,financial-services,143.83868408203125,2565500.0
-2021-10-31,10,4,2021,Primerica,PRI,insurance-life,financial-services,157.51751708984375,2036500.0
-2021-11-30,11,4,2021,Primerica,PRI,insurance-life,financial-services,138.17529296875,2512000.0
-2021-12-31,12,4,2021,Primerica,PRI,insurance-life,financial-services,143.92202758789062,2649800.0
-2022-01-31,1,1,2022,Primerica,PRI,insurance-life,financial-services,144.9268035888672,3353900.0
-2022-02-28,2,1,2022,Primerica,PRI,insurance-life,financial-services,122.46189880371094,4923000.0
-2022-03-31,3,1,2022,Primerica,PRI,insurance-life,financial-services,128.99560546875,4210000.0
-2022-04-30,4,2,2022,Primerica,PRI,insurance-life,financial-services,122.15076446533203,2873000.0
-2022-05-31,5,2,2022,Primerica,PRI,insurance-life,financial-services,119.32414245605469,4283700.0
+2021-08-31,8,3,2021,Primerica,PRI,insurance-life,financial-services,143.19264221191406,1967200.0
+2021-09-30,9,3,2021,Primerica,PRI,insurance-life,financial-services,143.8386688232422,2565500.0
+2021-10-31,10,4,2021,Primerica,PRI,insurance-life,financial-services,157.5175323486328,2036500.0
+2021-11-30,11,4,2021,Primerica,PRI,insurance-life,financial-services,138.1753387451172,2512000.0
+2021-12-31,12,4,2021,Primerica,PRI,insurance-life,financial-services,143.9220428466797,2649800.0
+2022-01-31,1,1,2022,Primerica,PRI,insurance-life,financial-services,144.92678833007812,3353900.0
+2022-02-28,2,1,2022,Primerica,PRI,insurance-life,financial-services,122.46192169189453,4923000.0
+2022-03-31,3,1,2022,Primerica,PRI,insurance-life,financial-services,128.99562072753906,4210000.0
+2022-04-30,4,2,2022,Primerica,PRI,insurance-life,financial-services,122.15081024169922,2873000.0
+2022-05-31,5,2,2022,Primerica,PRI,insurance-life,financial-services,119.32413482666016,4283700.0
 2022-06-30,6,2,2022,Primerica,PRI,insurance-life,financial-services,113.34847259521484,3360600.0
-2022-07-31,7,3,2022,Primerica,PRI,insurance-life,financial-services,121.87162017822266,2493600.0
-2022-08-31,8,3,2022,Primerica,PRI,insurance-life,financial-services,120.51904296875,3233400.0
+2022-07-31,7,3,2022,Primerica,PRI,insurance-life,financial-services,121.87159729003906,2493600.0
+2022-08-31,8,3,2022,Primerica,PRI,insurance-life,financial-services,120.51905059814453,3233400.0
 2022-09-30,9,3,2022,Primerica,PRI,insurance-life,financial-services,117.38127899169922,4009600.0
 2022-10-31,10,4,2022,Primerica,PRI,insurance-life,financial-services,137.58663940429688,2658600.0
-2022-11-30,11,4,2022,Primerica,PRI,insurance-life,financial-services,142.2501983642578,2578600.0
-2022-12-31,12,4,2022,Primerica,PRI,insurance-life,financial-services,135.3682403564453,2417200.0
+2022-11-30,11,4,2022,Primerica,PRI,insurance-life,financial-services,142.25021362304688,2578600.0
+2022-12-31,12,4,2022,Primerica,PRI,insurance-life,financial-services,135.3682098388672,2417200.0
 2023-01-31,1,1,2023,Primerica,PRI,insurance-life,financial-services,154.39154052734375,2190600.0
 2023-02-28,2,1,2023,Primerica,PRI,insurance-life,financial-services,183.9092254638672,3510800.0
-2023-03-31,3,1,2023,Primerica,PRI,insurance-life,financial-services,165.03347778320312,5377200.0
+2023-03-31,3,1,2023,Primerica,PRI,insurance-life,financial-services,165.03350830078125,5377200.0
 2023-04-30,4,2,2023,Primerica,PRI,insurance-life,financial-services,174.873779296875,2349900.0
-2023-05-31,5,2,2023,Primerica,PRI,insurance-life,financial-services,175.01353454589844,2511200.0
+2023-05-31,5,2,2023,Primerica,PRI,insurance-life,financial-services,175.0135040283203,2511200.0
 2023-06-30,6,2,2023,Primerica,PRI,insurance-life,financial-services,190.1476593017578,3521100.0
-2023-07-31,7,3,2023,Primerica,PRI,insurance-life,financial-services,204.51255798339844,2179900.0
-2023-08-31,8,3,2023,Primerica,PRI,insurance-life,financial-services,193.84324645996094,2920700.0
-2023-09-30,9,3,2023,Primerica,PRI,insurance-life,financial-services,187.13938903808594,3033900.0
-2023-10-31,10,4,2023,Primerica,PRI,insurance-life,financial-services,184.39028930664062,3037600.0
+2023-07-31,7,3,2023,Primerica,PRI,insurance-life,financial-services,204.5125732421875,2179900.0
+2023-08-31,8,3,2023,Primerica,PRI,insurance-life,financial-services,193.84326171875,2920700.0
+2023-09-30,9,3,2023,Primerica,PRI,insurance-life,financial-services,187.1393585205078,3033900.0
+2023-10-31,10,4,2023,Primerica,PRI,insurance-life,financial-services,184.39027404785156,3037600.0
 2023-11-30,11,4,2023,Primerica,PRI,insurance-life,financial-services,202.71925354003906,2628500.0
 2023-12-31,12,4,2023,Primerica,PRI,insurance-life,financial-services,199.09078979492188,2733200.0
-2024-01-31,1,1,2024,Primerica,PRI,insurance-life,financial-services,226.5702667236328,2538200.0
-2024-02-29,2,1,2024,Primerica,PRI,insurance-life,financial-services,238.0348358154297,2699400.0
-2024-03-31,3,1,2024,Primerica,PRI,insurance-life,financial-services,245.50799560546875,2282200.0
-2024-04-30,4,2,2024,Primerica,PRI,insurance-life,financial-services,205.6187744140625,5916600.0
+2024-01-31,1,1,2024,Primerica,PRI,insurance-life,financial-services,226.57028198242188,2538200.0
+2024-02-29,2,1,2024,Primerica,PRI,insurance-life,financial-services,238.03485107421875,2699400.0
+2024-03-31,3,1,2024,Primerica,PRI,insurance-life,financial-services,245.5079803466797,2282200.0
+2024-04-30,4,2,2024,Primerica,PRI,insurance-life,financial-services,205.61878967285156,5916600.0
 2024-05-31,5,2,2024,Primerica,PRI,insurance-life,financial-services,219.95875549316406,3763100.0
-2024-06-30,6,2,2024,Primerica,PRI,insurance-life,financial-services,230.36805725097656,4222400.0
-2024-07-31,7,3,2024,Primerica,PRI,insurance-life,financial-services,245.15919494628906,3070900.0
+2024-06-30,6,2,2024,Primerica,PRI,insurance-life,financial-services,230.36807250976562,4222400.0
+2024-07-31,7,3,2024,Primerica,PRI,insurance-life,financial-services,245.1592254638672,3070900.0
 2024-08-31,8,3,2024,Primerica,PRI,insurance-life,financial-services,257.2111511230469,2537400.0
 2024-09-30,9,3,2024,Primerica,PRI,insurance-life,financial-services,259.0872497558594,2942700.0
-2024-10-31,10,4,2024,Primerica,PRI,insurance-life,financial-services,270.4806213378906,2731000.0
+2024-10-31,10,4,2024,Primerica,PRI,insurance-life,financial-services,270.4806823730469,2731000.0
 2024-11-30,11,4,2024,Primerica,PRI,insurance-life,financial-services,296.734130859375,2710000.0
-2024-12-31,12,4,2024,Primerica,PRI,insurance-life,financial-services,266.02667236328125,3781500.0
-2025-01-31,1,1,2025,Primerica,PRI,insurance-life,financial-services,284.404052734375,2737600.0
+2024-12-31,12,4,2024,Primerica,PRI,insurance-life,financial-services,266.0266418457031,3781500.0
+2025-01-31,1,1,2025,Primerica,PRI,insurance-life,financial-services,284.40411376953125,2737600.0
 2025-02-28,2,1,2025,Primerica,PRI,insurance-life,financial-services,285.29742431640625,2775800.0
 2025-03-31,3,1,2025,Primerica,PRI,insurance-life,financial-services,279.9161376953125,4155000.0
 2025-04-30,4,2,2025,Primerica,PRI,insurance-life,financial-services,257.8203430175781,4041300.0
@@ -1117,208 +1117,208 @@ Date,Month,Quarter,Year,Company,Ticker,industryKey,sectorKey,Close,Volume_accum
 2025-10-31,10,4,2025,Primerica,PRI,insurance-life,financial-services,257.647705078125,3343400.0
 2025-11-30,11,4,2025,Primerica,PRI,insurance-life,financial-services,256.1379089355469,3953900.0
 2025-12-31,12,4,2025,Primerica,PRI,insurance-life,financial-services,259.3033142089844,4951300.0
-2009-01-31,1,1,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,5.805644989013672,5492800.0
-2009-02-28,2,1,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,5.813962936401367,6307500.0
+2009-01-31,1,1,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,5.805647373199463,5492800.0
+2009-02-28,2,1,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,5.813963890075684,6307500.0
 2009-03-31,3,1,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,6.488134384155273,7559300.0
-2009-04-30,4,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,7.929258823394775,10170700.0
-2009-05-31,5,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,8.974531173706055,8531500.0
-2009-06-30,6,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,9.538857460021973,7512500.0
-2009-07-31,7,3,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,11.22842025756836,7908700.0
+2009-04-30,4,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,7.929256916046143,10170700.0
+2009-05-31,5,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,8.974533081054688,8531500.0
+2009-06-30,6,2,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,9.538858413696289,7512500.0
+2009-07-31,7,3,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,11.228426933288574,7908700.0
 2009-08-31,8,3,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,10.824254989624023,6866300.0
-2009-09-30,9,3,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,11.627445220947266,4754700.0
-2009-10-31,10,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,14.281743049621582,18180400.0
-2009-11-30,11,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,16.875450134277344,16050200.0
-2009-12-31,12,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,16.932167053222656,12848600.0
-2010-01-31,1,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,14.644718170166016,9072500.0
-2010-02-28,2,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,16.917743682861328,9401400.0
-2010-03-31,3,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.42463493347168,15253900.0
-2010-04-30,4,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,19.032466888427734,15897500.0
-2010-05-31,5,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.29105567932129,15466900.0
-2010-06-30,6,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,15.855212211608887,19909500.0
-2010-07-31,7,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.11298179626465,17569000.0
-2010-08-31,8,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,16.33908462524414,12559900.0
-2010-09-30,9,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.40304946899414,13395900.0
+2009-09-30,9,3,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,11.627447128295898,4754700.0
+2009-10-31,10,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,14.281736373901367,18180400.0
+2009-11-30,11,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,16.875459671020508,16050200.0
+2009-12-31,12,4,2009,Nu Skin,NUS,household-personal-products,consumer-defensive,16.93216896057129,12848600.0
+2010-01-31,1,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,14.64471435546875,9072500.0
+2010-02-28,2,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,16.917749404907227,9401400.0
+2010-03-31,3,1,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.424646377563477,15253900.0
+2010-04-30,4,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,19.032468795776367,15897500.0
+2010-05-31,5,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.29106330871582,15466900.0
+2010-06-30,6,2,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,15.855217933654785,19909500.0
+2010-07-31,7,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.11297607421875,17569000.0
+2010-08-31,8,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,16.339096069335938,12559900.0
+2010-09-30,9,3,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,18.403039932250977,13395900.0
 2010-10-31,10,4,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,19.559621810913086,17036500.0
-2010-11-30,11,4,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,20.277313232421875,11199500.0
-2010-12-31,12,4,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,19.41130256652832,6762300.0
-2011-01-31,1,1,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,19.29584503173828,10776700.0
+2010-11-30,11,4,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,20.277307510375977,11199500.0
+2010-12-31,12,4,2010,Nu Skin,NUS,household-personal-products,consumer-defensive,19.41131019592285,6762300.0
+2011-01-31,1,1,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,19.295841217041016,10776700.0
 2011-02-28,2,1,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,20.561634063720703,15200400.0
-2011-03-31,3,1,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,18.519641876220703,21572500.0
-2011-04-30,4,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,20.671133041381836,15358200.0
-2011-05-31,5,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,25.27200698852539,18325300.0
-2011-06-30,6,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,24.27638816833496,15386400.0
-2011-07-31,7,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,24.269920349121094,13661900.0
-2011-08-31,8,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,27.45786476135254,21624000.0
-2011-09-30,9,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,26.308650970458984,16943400.0
-2011-10-31,10,4,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,32.80790328979492,18650700.0
+2011-03-31,3,1,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,18.519643783569336,21572500.0
+2011-04-30,4,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,20.6711368560791,15358200.0
+2011-05-31,5,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,25.272001266479492,18325300.0
+2011-06-30,6,2,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,24.276386260986328,15386400.0
+2011-07-31,7,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,24.269916534423828,13661900.0
+2011-08-31,8,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,27.457855224609375,21624000.0
+2011-09-30,9,3,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,26.308637619018555,16943400.0
+2011-10-31,10,4,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,32.807891845703125,18650700.0
 2011-11-30,11,4,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,31.104534149169922,14125600.0
-2011-12-31,12,4,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,31.645313262939453,9829200.0
-2012-01-31,1,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,32.54443359375,10252800.0
-2012-02-29,2,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,37.773441314697266,13557800.0
-2012-03-31,3,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,37.87153625488281,13599600.0
-2012-04-30,4,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,34.85673141479492,25820500.0
-2012-05-31,5,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,28.176193237304688,61881400.0
-2012-06-30,6,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,30.817691802978516,23342900.0
+2011-12-31,12,4,2011,Nu Skin,NUS,household-personal-products,consumer-defensive,31.645322799682617,9829200.0
+2012-01-31,1,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,32.544429779052734,10252800.0
+2012-02-29,2,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,37.77344512939453,13557800.0
+2012-03-31,3,1,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,37.87154006958008,13599600.0
+2012-04-30,4,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,34.856727600097656,25820500.0
+2012-05-31,5,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,28.176189422607422,61881400.0
+2012-06-30,6,2,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,30.817705154418945,23342900.0
 2012-07-31,7,3,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,33.51836395263672,18895200.0
-2012-08-31,8,3,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,27.391942977905273,52649100.0
-2012-09-30,9,3,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,25.635799407958984,30601900.0
-2012-10-31,10,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,31.24754524230957,27576400.0
-2012-11-30,11,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,30.103723526000977,20370000.0
-2012-12-31,12,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,24.567020416259766,39516800.0
-2013-01-31,1,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,28.087966918945312,43385600.0
-2013-02-28,2,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,27.518150329589844,26625300.0
-2013-03-31,3,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,29.52189826965332,17845300.0
-2013-04-30,4,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,33.883399963378906,21260400.0
-2013-05-31,5,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,39.46312713623047,23070200.0
-2013-06-30,6,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,41.020164489746094,12748800.0
-2013-07-31,7,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,56.13426971435547,29259300.0
-2013-08-31,8,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,56.37687301635742,20408700.0
-2013-09-30,9,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,64.47882843017578,19609500.0
-2013-10-31,10,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,78.74982452392578,38541000.0
-2013-11-30,11,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,86.3224868774414,25631000.0
-2013-12-31,12,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,93.33147430419922,19444900.0
-2014-01-31,1,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,57.496578216552734,79605500.0
-2014-02-28,2,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,56.39590835571289,45706400.0
-2014-03-31,3,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,56.2075080871582,63577600.0
-2014-04-30,4,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,59.0229606628418,22608000.0
-2014-05-31,5,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,50.33460998535156,27512500.0
-2014-06-30,6,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,50.41640853881836,14596500.0
-2014-07-31,7,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,40.00728988647461,23557600.0
-2014-08-31,8,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.484350204467773,45282100.0
-2014-09-30,9,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.951173782348633,32959500.0
-2014-10-31,10,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,36.312461853027344,36566900.0
-2014-11-30,11,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,28.985626220703125,35766300.0
-2014-12-31,12,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.303165435791016,21755900.0
-2015-01-31,1,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,28.417024612426758,15072300.0
-2015-02-28,2,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,37.81032180786133,28396100.0
-2015-03-31,3,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,42.018455505371094,22217700.0
-2015-04-30,4,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,39.464271545410156,14711500.0
-2015-05-31,5,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,35.54834747314453,24492700.0
-2015-06-30,6,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,33.110538482666016,13416900.0
-2015-07-31,7,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,27.85556983947754,19164600.0
-2015-08-31,8,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,32.363563537597656,26336800.0
-2015-09-30,9,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,29.24622917175293,15215600.0
+2012-08-31,8,3,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,27.391939163208008,52649100.0
+2012-09-30,9,3,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,25.635805130004883,30601900.0
+2012-10-31,10,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,31.247554779052734,27576400.0
+2012-11-30,11,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,30.10372543334961,20370000.0
+2012-12-31,12,4,2012,Nu Skin,NUS,household-personal-products,consumer-defensive,24.5670223236084,39516800.0
+2013-01-31,1,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,28.08796501159668,43385600.0
+2013-02-28,2,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,27.518159866333008,26625300.0
+2013-03-31,3,1,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,29.521902084350586,17845300.0
+2013-04-30,4,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,33.8834114074707,21260400.0
+2013-05-31,5,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,39.4631233215332,23070200.0
+2013-06-30,6,2,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,41.020179748535156,12748800.0
+2013-07-31,7,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,56.1342658996582,29259300.0
+2013-08-31,8,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,56.376895904541016,20408700.0
+2013-09-30,9,3,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,64.47882080078125,19609500.0
+2013-10-31,10,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,78.74983215332031,38541000.0
+2013-11-30,11,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,86.32249450683594,25631000.0
+2013-12-31,12,4,2013,Nu Skin,NUS,household-personal-products,consumer-defensive,93.33146667480469,19444900.0
+2014-01-31,1,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,57.49656677246094,79605500.0
+2014-02-28,2,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,56.39592742919922,45706400.0
+2014-03-31,3,1,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,56.207489013671875,63577600.0
+2014-04-30,4,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,59.022953033447266,22608000.0
+2014-05-31,5,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,50.334617614746094,27512500.0
+2014-06-30,6,2,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,50.416404724121094,14596500.0
+2014-07-31,7,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,40.007293701171875,23557600.0
+2014-08-31,8,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.484346389770508,45282100.0
+2014-09-30,9,3,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.951175689697266,32959500.0
+2014-10-31,10,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,36.312477111816406,36566900.0
+2014-11-30,11,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,28.98563003540039,35766300.0
+2014-12-31,12,4,2014,Nu Skin,NUS,household-personal-products,consumer-defensive,30.30316925048828,21755900.0
+2015-01-31,1,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,28.417015075683594,15072300.0
+2015-02-28,2,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,37.81033706665039,28396100.0
+2015-03-31,3,1,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,42.018463134765625,22217700.0
+2015-04-30,4,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,39.46427536010742,14711500.0
+2015-05-31,5,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,35.54833984375,24492700.0
+2015-06-30,6,2,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,33.11052703857422,13416900.0
+2015-07-31,7,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,27.855560302734375,19164600.0
+2015-08-31,8,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,32.36355972290039,26336800.0
+2015-09-30,9,3,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,29.246227264404297,15215600.0
 2015-10-31,10,4,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,27.071182250976562,41098700.0
-2015-11-30,11,4,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,24.97899627685547,29394300.0
-2015-12-31,12,4,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,27.142351150512695,18350300.0
-2016-01-31,1,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,22.67235565185547,21496100.0
-2016-02-29,2,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,22.11226463317871,34006400.0
-2016-03-31,3,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,27.740060806274414,30525600.0
-2016-04-30,4,2,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,29.567644119262695,18797400.0
-2016-05-31,5,2,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,28.871068954467773,14304600.0
+2015-11-30,11,4,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,24.979001998901367,29394300.0
+2015-12-31,12,4,2015,Nu Skin,NUS,household-personal-products,consumer-defensive,27.142356872558594,18350300.0
+2016-01-31,1,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,22.67236328125,21496100.0
+2016-02-29,2,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,22.112272262573242,34006400.0
+2016-03-31,3,1,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,27.74005699157715,30525600.0
+2016-04-30,4,2,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,29.56764030456543,18797400.0
+2016-05-31,5,2,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,28.871051788330078,14304600.0
 2016-06-30,6,2,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,33.803653717041016,16846300.0
-2016-07-31,7,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,39.08022689819336,12827000.0
-2016-08-31,8,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,42.61396789550781,16041200.0
-2016-09-30,9,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,47.69407272338867,14708900.0
-2016-10-31,10,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,45.389617919921875,14419300.0
-2016-11-30,11,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,38.6724853515625,19445700.0
-2016-12-31,12,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,35.4114990234375,16906800.0
-2017-01-31,1,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,38.45014953613281,7675700.0
-2017-02-28,2,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,36.99281311035156,19291500.0
-2017-03-31,3,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,41.47318649291992,31757800.0
+2016-07-31,7,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,39.080223083496094,12827000.0
+2016-08-31,8,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,42.61397171020508,16041200.0
+2016-09-30,9,3,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,47.6940803527832,14708900.0
+2016-10-31,10,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,45.38962936401367,14419300.0
+2016-11-30,11,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,38.672489166259766,19445700.0
+2016-12-31,12,4,2016,Nu Skin,NUS,household-personal-products,consumer-defensive,35.41149139404297,16906800.0
+2017-01-31,1,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,38.45015335083008,7675700.0
+2017-02-28,2,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,36.99282455444336,19291500.0
+2017-03-31,3,1,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,41.473175048828125,31757800.0
 2017-04-30,4,2,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,41.24169921875,12211200.0
-2017-05-31,5,2,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,41.24940872192383,13318400.0
-2017-06-30,6,2,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,47.23237991333008,12913000.0
-2017-07-31,7,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,47.62322998046875,8006300.0
-2017-08-31,8,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,46.00148010253906,21567600.0
-2017-09-30,9,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,46.493019104003906,8874600.0
-2017-10-31,10,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,48.10380935668945,9161200.0
-2017-11-30,11,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,51.65092849731445,9340200.0
-2017-12-31,12,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,51.894317626953125,7174500.0
-2018-01-31,1,1,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.640010833740234,6953300.0
+2017-05-31,5,2,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,41.24940490722656,13318400.0
+2017-06-30,6,2,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,47.23237228393555,12913000.0
+2017-07-31,7,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,47.62321853637695,8006300.0
+2017-08-31,8,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,46.0014762878418,21567600.0
+2017-09-30,9,3,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,46.49302291870117,8874600.0
+2017-10-31,10,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,48.10379409790039,9161200.0
+2017-11-30,11,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,51.65092468261719,9340200.0
+2017-12-31,12,4,2017,Nu Skin,NUS,household-personal-products,consumer-defensive,51.89431381225586,7174500.0
+2018-01-31,1,1,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.63999938964844,6953300.0
 2018-02-28,2,1,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,53.8200569152832,8728300.0
-2018-03-31,3,1,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,56.35050964355469,13847600.0
-2018-04-30,4,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.39342498779297,14417100.0
-2018-05-31,5,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,62.885311126708984,10392800.0
-2018-06-30,6,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,60.04400634765625,9072500.0
-2018-07-31,7,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,55.94327163696289,7089600.0
-2018-08-31,8,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,61.405941009521484,10612500.0
-2018-09-30,9,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,63.581356048583984,7340300.0
-2018-10-31,10,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.16990661621094,9367400.0
-2018-11-30,11,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,51.17544174194336,7295900.0
-2018-12-31,12,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,47.57603454589844,6981800.0
-2019-01-31,1,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,50.92722702026367,10946600.0
-2019-02-28,2,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,46.90608215332031,13222000.0
-2019-03-31,3,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,37.34694290161133,16207700.0
-2019-04-30,4,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,39.695770263671875,14867900.0
-2019-05-31,5,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,36.71591567993164,17712600.0
-2019-06-30,6,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,38.78408432006836,10481500.0
-2019-07-31,7,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,31.439329147338867,18764800.0
-2019-08-31,8,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,32.23971176147461,12508400.0
-2019-09-30,9,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,33.75564956665039,10402300.0
+2018-03-31,3,1,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,56.35051345825195,13847600.0
+2018-04-30,4,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.39341735839844,14417100.0
+2018-05-31,5,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,62.885337829589844,10392800.0
+2018-06-30,6,2,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,60.04402542114258,9072500.0
+2018-07-31,7,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,55.943294525146484,7089600.0
+2018-08-31,8,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,61.405921936035156,10612500.0
+2018-09-30,9,3,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,63.581363677978516,7340300.0
+2018-10-31,10,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,54.16991424560547,9367400.0
+2018-11-30,11,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,51.17545700073242,7295900.0
+2018-12-31,12,4,2018,Nu Skin,NUS,household-personal-products,consumer-defensive,47.576026916503906,6981800.0
+2019-01-31,1,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,50.92721176147461,10946600.0
+2019-02-28,2,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,46.90607833862305,13222000.0
+2019-03-31,3,1,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,37.346954345703125,16207700.0
+2019-04-30,4,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,39.69575881958008,14867900.0
+2019-05-31,5,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,36.71590042114258,17712600.0
+2019-06-30,6,2,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,38.784088134765625,10481500.0
+2019-07-31,7,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,31.4393253326416,18764800.0
+2019-08-31,8,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,32.239715576171875,12508400.0
+2019-09-30,9,3,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,33.75565719604492,10402300.0
 2019-10-31,10,4,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,35.38272476196289,7877000.0
-2019-11-30,11,4,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,30.643171310424805,8839900.0
-2019-12-31,12,4,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,32.838844299316406,7868100.0
-2020-01-31,1,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,26.11561393737793,11011700.0
-2020-02-29,2,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,19.941255569458008,18669100.0
-2020-03-31,3,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,17.76984214782715,32588100.0
-2020-04-30,4,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,23.755475997924805,21077400.0
-2020-05-31,5,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,30.53594207763672,17249900.0
-2020-06-30,6,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,31.398305892944336,15522400.0
-2020-07-31,7,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,36.83531951904297,15966800.0
-2020-08-31,8,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,39.12728500366211,10037900.0
-2020-09-30,9,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,41.46151351928711,9293600.0
-2020-10-31,10,4,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,40.84896469116211,7899500.0
-2020-11-30,11,4,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,42.9383659362793,7862400.0
+2019-11-30,11,4,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,30.64317512512207,8839900.0
+2019-12-31,12,4,2019,Nu Skin,NUS,household-personal-products,consumer-defensive,32.838829040527344,7868100.0
+2020-01-31,1,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,26.11560821533203,11011700.0
+2020-02-29,2,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,19.94126319885254,18669100.0
+2020-03-31,3,1,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,17.769840240478516,32588100.0
+2020-04-30,4,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,23.75547218322754,21077400.0
+2020-05-31,5,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,30.535940170288086,17249900.0
+2020-06-30,6,2,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,31.398317337036133,15522400.0
+2020-07-31,7,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,36.83531188964844,15966800.0
+2020-08-31,8,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,39.127281188964844,10037900.0
+2020-09-30,9,3,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,41.461509704589844,9293600.0
+2020-10-31,10,4,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,40.848968505859375,7899500.0
+2020-11-30,11,4,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,42.93836975097656,7862400.0
 2020-12-31,12,4,2020,Nu Skin,NUS,household-personal-products,consumer-defensive,45.53917694091797,7274300.0
-2021-01-31,1,1,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,48.24002456665039,7157100.0
-2021-02-28,2,1,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,42.98817825317383,14973200.0
+2021-01-31,1,1,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,48.24001693725586,7157100.0
+2021-02-28,2,1,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,42.988182067871094,14973200.0
 2021-03-31,3,1,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,44.42447280883789,13512700.0
-2021-04-30,4,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,44.39927673339844,7297500.0
-2021-05-31,5,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,50.851356506347656,8012500.0
-2021-06-30,6,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,47.88447189331055,17294500.0
-2021-07-31,7,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,45.38246536254883,7949500.0
-2021-08-31,8,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,43.103878021240234,7533800.0
-2021-09-30,9,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,34.460960388183594,9782000.0
-2021-10-31,10,4,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,34.188480377197266,8481400.0
+2021-04-30,4,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,44.3992805480957,7297500.0
+2021-05-31,5,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,50.85135269165039,8012500.0
+2021-06-30,6,2,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,47.884464263916016,17294500.0
+2021-07-31,7,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,45.382469177246094,7949500.0
+2021-08-31,8,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,43.1038818359375,7533800.0
+2021-09-30,9,3,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,34.46096420288086,9782000.0
+2021-10-31,10,4,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,34.1884765625,8481400.0
 2021-11-30,11,4,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,37.67237091064453,10223300.0
-2021-12-31,12,4,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,43.57048416137695,10269400.0
-2022-01-31,1,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,41.372650146484375,20519500.0
-2022-02-28,2,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,40.15073776245117,12914800.0
-2022-03-31,3,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,41.44034194946289,10223500.0
-2022-04-30,4,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,36.90510177612305,15694900.0
-2022-05-31,5,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,40.721412658691406,13797000.0
-2022-06-30,6,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.79713821411133,8631200.0
-2022-07-31,7,3,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.98045349121094,6971100.0
-2022-08-31,8,3,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,36.06222152709961,7448100.0
+2021-12-31,12,4,2021,Nu Skin,NUS,household-personal-products,consumer-defensive,43.57048034667969,10269400.0
+2022-01-31,1,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,41.37263870239258,20519500.0
+2022-02-28,2,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,40.15074157714844,12914800.0
+2022-03-31,3,1,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,41.44034957885742,10223500.0
+2022-04-30,4,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,36.90510940551758,15694900.0
+2022-05-31,5,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,40.721405029296875,13797000.0
+2022-06-30,6,2,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.79714584350586,8631200.0
+2022-07-31,7,3,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.9804573059082,6971100.0
+2022-08-31,8,3,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,36.062217712402344,7448100.0
 2022-09-30,9,3,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,29.394147872924805,8281200.0
-2022-10-31,10,4,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,33.63986587524414,13361800.0
+2022-10-31,10,4,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,33.639862060546875,13361800.0
 2022-11-30,11,4,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.10340881347656,24415500.0
-2022-12-31,12,4,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.50371170043945,10599400.0
+2022-12-31,12,4,2022,Nu Skin,NUS,household-personal-products,consumer-defensive,37.50370407104492,10599400.0
 2023-01-31,1,1,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,38.144195556640625,13308100.0
-2023-02-28,2,1,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,35.77761459350586,9862200.0
-2023-03-31,3,1,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,35.30166244506836,9429900.0
+2023-02-28,2,1,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,35.777626037597656,9862200.0
+2023-03-31,3,1,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,35.30167007446289,9429900.0
 2023-04-30,4,2,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,35.436370849609375,6782100.0
 2023-05-31,5,2,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,30.27027702331543,6999400.0
-2023-06-30,6,2,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,30.15220832824707,14447700.0
-2023-07-31,7,3,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,26.691970825195312,25122100.0
+2023-06-30,6,2,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,30.152210235595703,14447700.0
+2023-07-31,7,3,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,26.69196891784668,25122100.0
 2023-08-31,8,3,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,22.061450958251953,12718500.0
-2023-09-30,9,3,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,19.58658218383789,11890200.0
+2023-09-30,9,3,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,19.586580276489258,11890200.0
 2023-10-31,10,4,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,17.5364990234375,12487400.0
 2023-11-30,11,4,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,16.082366943359375,12302300.0
 2023-12-31,12,4,2023,Nu Skin,NUS,household-personal-products,consumer-defensive,18.35015106201172,14388700.0
-2024-01-31,1,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,17.53752899169922,13073800.0
-2024-02-29,2,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,11.8693208694458,19509700.0
-2024-03-31,3,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,13.132217407226562,17567000.0
-2024-04-30,4,2,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,11.166657447814941,11695200.0
+2024-01-31,1,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,17.537527084350586,13073800.0
+2024-02-29,2,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,11.869319915771484,19509700.0
+2024-03-31,3,1,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,13.13221549987793,17567000.0
+2024-04-30,4,2,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,11.166656494140625,11695200.0
 2024-05-31,5,2,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,12.734495162963867,14186000.0
-2024-06-30,6,2,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,10.054049491882324,17799300.0
+2024-06-30,6,2,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,10.054048538208008,17799300.0
 2024-07-31,7,3,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,10.70269775390625,12847200.0
-2024-08-31,8,3,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,8.573653221130371,15783300.0
-2024-09-30,9,3,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,7.07590389251709,36023600.0
+2024-08-31,8,3,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,8.573652267456055,15783300.0
+2024-09-30,9,3,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,7.075904369354248,36023600.0
 2024-10-31,10,4,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,5.942991256713867,17229100.0
 2024-11-30,11,4,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,7.063812255859375,18141600.0
-2024-12-31,12,4,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,6.667077541351318,14656500.0
+2024-12-31,12,4,2024,Nu Skin,NUS,household-personal-products,consumer-defensive,6.66707706451416,14656500.0
 2025-01-31,1,1,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,6.338078022003174,15183300.0
 2025-02-28,2,1,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,7.72473669052124,16680100.0
-2025-03-31,3,1,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,7.0810089111328125,13970300.0
+2025-03-31,3,1,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,7.081009387969971,13970300.0
 2025-04-30,4,2,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,6.1739373207092285,13874000.0
-2025-05-31,5,2,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,8.477787971496582,13621500.0
-2025-06-30,6,2,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,7.8490753173828125,10434100.0
+2025-05-31,5,2,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,8.477788925170898,13621500.0
+2025-06-30,6,2,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,7.849075794219971,10434100.0
 2025-07-31,7,3,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,8.232197761535645,10122900.0
 2025-08-31,8,3,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,12.015731811523438,14090600.0
-2025-09-30,9,3,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,12.035477638244629,13465500.0
-2025-10-31,10,4,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,10.584113121032715,9395100.0
+2025-09-30,9,3,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,12.035478591918945,13465500.0
+2025-10-31,10,4,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,10.584112167358398,9395100.0
 2025-11-30,11,4,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,9.821240425109863,9848000.0
 2025-12-31,12,4,2025,Nu Skin,NUS,household-personal-products,consumer-defensive,9.642491340637207,9365900.0
 2009-01-31,1,1,2009,USANA,USNA,packaged-foods,consumer-defensive,11.604999542236328,2603200.0

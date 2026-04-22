@@ -13,3 +13,4 @@ pytrends
 yfinance
 time
 os
+textwrap
